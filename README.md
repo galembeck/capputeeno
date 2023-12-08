@@ -6,7 +6,8 @@ Bem-vindo(a). Este é o repositório que contém a solução para o desafio fron
 
 O objetivo deste desafio é avaliar as habilidades de programação. Ainda há melhorias que podem sem implementadas neste projeto, as quais pretendo, futuramente, adicionar com o intuito de estudar as linguagens e ferramentas aqui utilizadas.
 
-Caso tenha alguma dúvida, utilize meu Discord: galembeck#8793.
+[![Discord](https://img.shields.io/badge/Discord-1877F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/rocketseat)
+
 Happy hacking!
 
 > ⚠️ **É importante ressaltar que este projeto/repositório se encontra em constante atualização.**
