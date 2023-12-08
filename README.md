@@ -1,35 +1,35 @@
 ![image](https://user-images.githubusercontent.com/40845824/121069742-3accdb00-c7a4-11eb-87d0-3dc47e433762.png)
 
+https://github.com/Fernanda-Kipper/challenge-frontend/raw/master/.github/prototype.png
 
-# 🚀 Front end challenge
+# 📦 Capputeeno
 
-Bem-vindo(a). Este é o desafio Front end!
+Bem-vindo(a). Este é o repositório que contém a solução para o desafio frontend da [Rocketseat´s](https://www.rocketseat.com.br/).
 
-O objetivo deste desafio é avaliar suas habilidades de programação.
-Quando sua solução estiver pronta, basta responder o e-mail que recebeu com o link do seu repo aqui no Github!
-Em seguida, enviaremos o feedback e as instruções dos próximos passos!
+O objetivo deste desafio é avaliar as habilidades de programação. Ainda há melhorias que podem sem implementadas neste projeto, as quais pretendo, futuramente, adicionar com o intuito de estudar as linguagens e ferramentas aqui utilizadas.
 
-Caso tenha alguma dúvida, nós estamos disponíveis no email *recrutamento@rocketseat.com.br*
-Bom desafio!
+Caso tenha alguma dúvida, utilize meu Discord: galembeck#8793.
+Happy hacking!
 
-> ⚠️ **É importante que o seu repo esteja público, caso contrário não iremos conseguir avaliar sua resposta**
+> ⚠️ **É importante ressaltar que este projeto/repositório se encontra em constante atualização.**
 
 # 🧠 Contexto
 
-![Protótipo](https://storage.googleapis.com/xesque-dev/challenge-images/prototipo.png?42)
+![Protótipo](./.github/capputeeno.png)
 
-O desafio será implementar um e-commerce para venda de canecas e camisetas que deverá ter as seguintes funcionalidades:
-- [ ] Catálogo de produtos com paginação
-- [ ] Filtragem produtos por categoria
-- [ ] Busca por nome do produto
-- [ ] Adicionar e remover produtos do carrinho
-- [ ] Finalizar compra
+O desafio consistia em implementar um e-commerce para venda de canecas e camisetas que deveriam ter as seguintes funcionalidades:
+
+- [x] Catálogo de produtos com paginação
+- [x] Filtragem produtos por categoria
+- [x] Busca por nome do produto
+- [x] Adicionar e remover produtos do carrinho
+- [x] Finalizar compra
 
 ## 📋 Instruções
 
-Chegou a hora de colocar a mão na massa!
+Para utilizar o projeto acima, basta seguir as instruções abaixo.
 
-- Siga [esse protótipo](https://www.figma.com/file/rET9F2CeUEJdiVN7JRu993/E-commerce---capputeeno?node-id=680%3A6449)
+- Siga esse [protótipo](https://www.figma.com/file/rET9F2CeUEJdiVN7JRu993/E-commerce---capputeeno?node-id=680%3A6449)
 - Utilize Next.js e Typescript
 - Faça a estilização com styled-components
 - Utilize o local storage para gerenciar o carrinho
@@ -39,7 +39,7 @@ Chegou a hora de colocar a mão na massa!
 
 ## ✔️ Critérios de Avaliação
 
-Além dos requisitos levantados acima, iremos olhar para os seguintes critérios durante a correção do desafio:
+Além dos requisitos levantados acima, os seguintes critérios também eram solicitados pelos recrutadores:
 
 - Gerenciamento de estado
 - Componentização
@@ -48,15 +48,62 @@ Além dos requisitos levantados acima, iremos olhar para os seguintes critérios
 - Preocupação com acessibilidade
 - Testes e2e
 - Padrões de código
-- Padrão de commits (_Conventional_)
+- Padrão de commits (_conventional_)
 
-## 😎 Seria legal
-- Fazer deploy na vercel ou em outro local de sua preferência e disponibilizar um link de visualização, se necessário utilize esse servidor para a API GraphQL:  https://rocketseat-frontend-challenge.herokuapp.com/
+## 😎 Adicionais
+
+- Fazer deploy na vercel ou em outro local de sua preferência e disponibilizar um link de visualização, se necessário utilize esse servidor para a API GraphQL: https://rocketseat-frontend-challenge.herokuapp.com/
 - Testes unitários
 - Utilização de cache do Next.js
 
 ---
 
-_O desafio acima foi cuidadosamente construído para propósitos de avaliação apenas. Já possuimos uma funcionalidade similar na nossa plataforma._
+## 🖥️ Instalação
 
-Made with 💜 at Rocketseat
+### Capputeeno (frontend)
+
+1. Clone este repositório:
+
+```bash
+git clone https://github.com/LDNzera/capputeeno-challenge.git
+```
+
+2. Abra a pasta do projeto (_capputeeno-challenge_):
+
+```bash
+cd capputeeno-challenge
+cd capputeeno
+```
+
+3. Instale as dependências utilizadas:
+
+```bash
+npm install
+```
+
+3. Inicie o projeto:
+
+```bash
+npm run dev
+```
+
+### API
+
+2. Abra a pasta da API utilizada (_api_):
+
+```bash
+cd capputeeno-challenge
+cd api
+```
+
+3. Instale as dependências utilizadas:
+
+```bash
+npm install
+```
+
+3. Inicie a API:
+
+```bash
+npm start
+```
