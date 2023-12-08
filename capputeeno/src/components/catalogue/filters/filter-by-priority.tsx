@@ -7,8 +7,6 @@ import { ArrowIcon } from "../../icons/arrow-icon";
 import { styled } from "styled-components";
 import { PriorityTypes } from "@/types/priority-types";
 
-interface FilterByPriorityProps {}
-
 const FilterContainer = styled.div`
   display: flex;
   align-items: center;
@@ -42,6 +40,8 @@ const PriorityFilter = styled.ul`
   border-radius: 4px;
   padding: 12px 16px;
 
+  z-index: 999;
+
   list-style: none;
 
   top: 100%;
@@ -60,7 +60,7 @@ const PriorityFilter = styled.ul`
   }
 `;
 
-export function FilterByPriority(props: FilterByPriorityProps) {
+export function FilterByPriority() {
   const [isOpen, setIsOpen] = useState(false);
   const { setPriority } = useFilter();
 
