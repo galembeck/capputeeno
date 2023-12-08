@@ -1,6 +1,10 @@
 ![image](https://user-images.githubusercontent.com/40845824/121069742-3accdb00-c7a4-11eb-87d0-3dc47e433762.png)
 
-https://github.com/Fernanda-Kipper/challenge-frontend/raw/master/.github/prototype.png
+![GitHub repo size](https://img.shields.io/github/repo-size/iuricode/README-template?style=for-the-badge)
+![GitHub language count](https://img.shields.io/github/languages/count/iuricode/README-template?style=for-the-badge)
+![GitHub forks](https://img.shields.io/github/forks/iuricode/README-template?style=for-the-badge)
+![Bitbucket open issues](https://img.shields.io/bitbucket/issues/iuricode/README-template?style=for-the-badge)
+![Bitbucket open pull requests](https://img.shields.io/bitbucket/pr-raw/iuricode/README-template?style=for-the-badge)
 
 # 📦 Capputeeno
 
@@ -13,7 +17,7 @@ Happy hacking!
 
 > ⚠️ **É importante ressaltar que este projeto/repositório se encontra em constante atualização.**
 
-# 🧠 Contexto
+## 🧠 Contexto
 
 ![Protótipo](./.github/capputeeno.png)
 
@@ -24,6 +28,37 @@ O desafio consistia em implementar um e-commerce para venda de canecas e camiset
 - [x] Busca por nome do produto
 - [x] Adicionar e remover produtos do carrinho
 - [x] Finalizar compra
+
+## 🤝 Colaboradores
+
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/LDNzera" title="Pedro Galembeck">
+        <img src="https://avatars.githubusercontent.com/u/51977156?v=4" width="100px;" alt="Avatar de Pedro Galembeck (Github)"/><br>
+        <sub>
+          <b>Pedro Galembeck</b>
+        </sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/Fernanda-Kipper" title="Fernanda Kipper">
+        <img src="https://avatars.githubusercontent.com/u/61896274?v=4" width="100px;" alt="Avatar da Fernanda Kipper"/><br>
+        <sub>
+          <b>Fernanda Kipper</b>
+        </sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/Rocketseat/frontend-challenge" title="Rocketseat">
+        <img src="https://avatars.githubusercontent.com/u/28929274?s=200&v=4" width="100px;" alt="Avatar da Rocketseat"/><br>
+        <sub>
+          <b>Rocketseat</b>
+        </sub>
+      </a>
+    </td>
+  </tr>
+</table>
 
 ## 📋 Instruções
 
