@@ -2,7 +2,7 @@
 
 import { Saira_Stencil_One } from "next/font/google";
 
-import { CartControl } from "../cart-control";
+import { CartControl } from "../controllers/cart-control";
 import { PrimaryInputWSeachIcon } from "./primary-input";
 
 import { useFilter } from "@/hooks/useFilter";

@@ -1,7 +1,7 @@
 import { useRouter } from "next/navigation";
 import { useLocalStorage } from "@/hooks/useLocalStorage";
 
-import { CartIcon } from "./icons/cart-icon";
+import { CartIcon } from "../icons/cart-icon";
 
 import { styled } from "styled-components";
 
