@@ -129,6 +129,7 @@ export default function Product({
           <div>
             <ProductInfo>
               <span>{data?.category}</span>
+              {/*} TODO: Traduzir MUGS e T-SHIRTS na exibição da categoria do produto. */}
               <h2>{data?.name}</h2>
               <span>{formatPrice(data?.price_in_cents ?? 0)}</span>
               <p>
