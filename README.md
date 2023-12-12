@@ -95,13 +95,13 @@ Além dos requisitos levantados acima, os seguintes critérios também eram soli
 1. Clone este repositório:
 
 ```bash
-git clone https://github.com/LDNzera/capputeeno-challenge.git
+git clone https://github.com/LDNzera/capputeeno.git
 ```
 
-2. Abra a pasta do projeto (_capputeeno-challenge_):
+1. Abra a pasta do projeto (_capputeeno_):
 
 ```bash
-cd capputeeno-challenge
+cd capputeeno
 cd capputeeno
 ```
 
@@ -122,7 +122,7 @@ npm run dev
 2. Abra a pasta da API utilizada (_api_):
 
 ```bash
-cd capputeeno-challenge
+cd capputeeno
 cd api
 ```
 
