@@ -40,6 +40,8 @@ const CapputeenoLogo = styled.a`
   font-size: 20px;
   line-height: 150%;
 
+  text-decoration: none;
+
   @media (min-width: ${(props) => props.theme.tabletBreakpoint}) {
     font-size: 24px;
   }
@@ -53,7 +55,7 @@ export function Header(props: HeaderProps) {
   const { search, setSearch } = useFilter();
   return (
     <TagHeader>
-      <CapputeenoLogo className={sairaStencil.className}>
+      <CapputeenoLogo className={sairaStencil.className} href="/">
         Capputeeno
       </CapputeenoLogo>
       <div>
