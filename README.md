@@ -102,7 +102,6 @@ git clone https://github.com/LDNzera/capputeeno.git
 
 ```bash
 cd capputeeno
-cd capputeeno
 ```
 
 3. Instale as dependências utilizadas:
